@@ -1,2 +1,3 @@
 # react-tutorial-ui
-React Tutorial Ui
+How to use in your app:
+import `style.css`
